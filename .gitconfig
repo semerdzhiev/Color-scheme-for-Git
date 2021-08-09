@@ -1,0 +1,37 @@
+[color]
+  branch = auto
+  diff = auto
+  status = auto
+  interactive = auto
+
+[color "branch"]
+  current = green bold
+  local = normal
+  remote = red bold
+  plain = normal
+
+[color "diff"]
+  plain = normal
+  meta = yellow
+  frag = cyan bold
+  old = red bold
+  new = green bold
+  commit = yellow
+  whitespace = normal red
+
+[color "status"]
+  header = normal
+  added = red bold
+  updated = green bold
+  changed = red bold
+  untracked = red bold
+  nobranch = red bold
+  
+[color "interactive"]
+  prompt = cyan bold
+  header = normal
+  help = normal
+  error = red bold
+  
+[color "grep"]
+  match = green bold
