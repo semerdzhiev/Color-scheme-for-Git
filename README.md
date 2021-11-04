@@ -5,3 +5,5 @@ For more information, check out these sources:
 * https://shallowsky.com/blog/programming/gitcolors.html
 * https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 * https://stackoverflow.com/questions/12795790/how-to-colorize-git-status-output
+* https://stackoverflow.com/questions/40675151/what-do-line-colors-in-git-log-graph-mean
+* http://www.man.he.net/man1/git-config

@@ -35,3 +35,6 @@
   
 [color "grep"]
   match = green bold
+
+[log]
+  graphColors = red bold, green bold, cyan bold, magenta bold, yellow bold, blue bold
